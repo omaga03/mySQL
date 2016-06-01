@@ -35,3 +35,5 @@ Result:
 |          7 |        3 |    90 |    1 |
 |          6 |        3 |    50 |    2 |
 +------------+----------+-------+------+
+
+ที่มา : http://stackoverflow.com/questions/532878/how-to-perform-grouped-ranking-in-mysql
